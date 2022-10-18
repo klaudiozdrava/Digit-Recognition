@@ -11,6 +11,6 @@ The steps of the algorithm are :
 4) Finally we feed our model with these digits and make predictions.
 
 To run this project :
-1) You should download the necessary libraries from requirement.txt.
+1) You should download the necessary libraries from requirement.txt and also the audio dataset.
 2) Run Dataset.py first and after run Network.py.
 3) Finally you should run the prediction.py and insert the file path when prompted.
