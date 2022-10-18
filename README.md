@@ -7,4 +7,5 @@ The steps of the algorithm are :
 2) Seperate foreground from background information using REPET algorithm.
 3) In the foreground signal,we extract digits information using sliding window technique.
 4) Finally we feed our model with these digits and make predictions.
-The dataset that I have used for the purpose of this assigment is AudioMNIST which is open source.
+
+The dataset that was used for the purpose of this assigment is AudioMNIST which is open source.
