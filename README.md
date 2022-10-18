@@ -8,4 +8,4 @@ The steps of the algorithm are :
 3) In the foreground signal,we extract digits information using sliding window technique.
 4) Finally we feed our model with these digits and make predictions.
 
-The dataset that was used for the purpose of this assigment is AudioMNIST which is open source.
+The dataset that was used for the purpose of this assigment is AudioMNIST.
